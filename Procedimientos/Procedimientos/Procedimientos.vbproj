@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B6CE2655-36A5-492B-A5B8-A38CED67020E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Procedimientos.ej3_02</StartupObject>
+    <StartupObject>Procedimientos.ej3_07</StartupObject>
     <RootNamespace>Procedimientos</RootNamespace>
     <AssemblyName>Procedimientos</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -71,6 +71,11 @@
     <Compile Include="Ej3_01.vb" />
     <Compile Include="ej3_02.vb" />
     <Compile Include="ej3_03.vb" />
+    <Compile Include="ej3_04.vb" />
+    <Compile Include="ej3_05.vb" />
+    <Compile Include="ej3_06.vb" />
+    <Compile Include="ej3_07.vb" />
+    <Compile Include="ej3_08.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
